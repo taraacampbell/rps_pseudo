@@ -20,5 +20,5 @@
 #Declare Winner at end with score of wins and loses
 
 #### BONUS ####
-  #Show history of computer and user moves at end
+  #Show history of computer and user moves at end.
 
